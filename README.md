@@ -26,6 +26,8 @@ In the script you have to input:
 
 4- instance name at the end, in the last lines (instance_name.ckpt) to copy and download the model on local pc.
 
+Of course you can change the steps number and the fp16 option (True or False). 
+
 Please let me know. 
 
 Thank you.
