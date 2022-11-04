@@ -1,4 +1,4 @@
-UPDATE > latest version with text encode
+UPDATE > latest version with text encoder training
 
 # fast_Dreambooth_4_kaggle
 fast_Dreambooth by TheLastBen for kaggle notebook
