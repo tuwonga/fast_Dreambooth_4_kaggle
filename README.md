@@ -1,5 +1,3 @@
-UPDATE > latest version with text encoder training
-
 # fast_Dreambooth_4_kaggle
 fast_Dreambooth by TheLastBen for kaggle notebook
 
@@ -24,7 +22,7 @@ In the script you have to input:
 
 2- instance_name (of course!!!)
 
-3- image folder path (usually under: /kaggle/input/youraccountname/yourdatasetfoldername)
+3- image folder path (usually under: "/kaggle/input/youraccountname/yourdatasetfolder" or "/kaggle/input/yourdatasetfolder")
 
 4- instance name at the end, in the last lines (instance_name.ckpt) to copy and download the model on local pc.
 
@@ -33,3 +31,6 @@ Of course you can change the steps number and the fp16 option (True or False).
 Please let me know. 
 
 Thank you.
+
+UPDATE > latest version with text encoder training
+You can edit % of text encoder
