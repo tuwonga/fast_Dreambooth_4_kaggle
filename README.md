@@ -33,4 +33,5 @@ Please let me know.
 Thank you.
 
 UPDATE > latest version with text encoder training
-You can edit % of text encoder
+
+You can edit the % of text encoder
