@@ -32,6 +32,5 @@ Please let me know.
 
 Thank you.
 
-UPDATE > latest version with text encoder training
-
-You can edit the % of text encoder
+UPDATE > latest version with text encoder training, you can edit the % of text encoder
+UPDATE > fp16 option added
