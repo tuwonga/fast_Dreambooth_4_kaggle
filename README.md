@@ -35,3 +35,5 @@ Thank you.
 UPDATE > latest version with text encoder training, you can edit the % of text encoder
 
 UPDATE > fp16 option added
+
+UPDATE > please in the last update you have to upload to kaggel only .png files as dataset and not .jpg
