@@ -37,3 +37,6 @@ UPDATE > latest version with text encoder training, you can edit the % of text e
 UPDATE > fp16 option added
 
 UPDATE > please in the last update you have to upload to kaggel only .png files as dataset and not .jpg
+
+UPDATE > fast_dreambooth with SDv2 model for kaggle notebook, at the moment I've just tried the V2-512px model and training is working.
+There are still some cell output errors but the code is working. 
