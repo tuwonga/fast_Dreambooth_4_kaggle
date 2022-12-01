@@ -32,4 +32,5 @@ Thank you.
 - Nov 10, 2022: fp16 option added
 - Nov 18, 2022: please in the last update you have to upload to Kaggle only .png files as dataset and not .jpg
 - Nov 28, 2022: fast_dreambooth with SDv2 model added, at the moment I've just tried the V2-512px model and training is working.
+- Dec 1, 2022: fast_dreambooth with SDv2 model fixed, latest version.
   - There are still some cell output errors but the code is working. 
