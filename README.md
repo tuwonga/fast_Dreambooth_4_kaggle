@@ -28,8 +28,9 @@ Please let me know.
 Thank you.
 
 # Changelog
-- Nov 4, 2022: latest version with text encoder training, you can edit the % of text encoder
-- Nov 10, 2022: fp16 option added
+- May 27, 2023: ported the recent version suitable for 1.5 and V2. The repo was edited with stable diffusion V2-512 loaded model from huggingface but you can  use whatever you want using the format "profile/model". Please read all the @markdowns in the code.
+- Nov 4, 2022: latest version with text encoder training, you can edit the % of text encoder.
+- Nov 10, 2022: fp16 option added.
 - Nov 18, 2022: please in the last update you have to upload to Kaggle only .png files as dataset and not .jpg
 - Nov 28, 2022: fast_dreambooth with SDv2 model added, at the moment I've just tried the V2-512px model and training is working.
 - Dec 1, 2022: fast_dreambooth with SDv2 model fixed, latest version.
